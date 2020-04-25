@@ -1,0 +1,31 @@
+body {
+    background-color: #d6d6d6;
+}
+
+.block {
+    border: 1px solid red;
+}
+
+.line {
+    border: 1px solid blue;
+}
+
+.image {
+    width: 70%;
+}
+
+#one {
+    border: 1px solid purple;
+}
+
+#one .highlight {
+    color: red;
+}
+
+#two .highlight {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
